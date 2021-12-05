@@ -1,0 +1,12 @@
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Abstract Classes\Calculator\Calculatordll\bin\Debug\net6.0\Calculatordll.deps.json
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Abstract Classes\Calculator\Calculatordll\bin\Debug\net6.0\Calculatordll.dll
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Abstract Classes\Calculator\Calculatordll\bin\Debug\net6.0\ref\Calculatordll.dll
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Abstract Classes\Calculator\Calculatordll\bin\Debug\net6.0\Calculatordll.pdb
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Abstract Classes\Calculator\Calculatordll\obj\Debug\net6.0\Calculatordll.csproj.AssemblyReference.cache
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Abstract Classes\Calculator\Calculatordll\obj\Debug\net6.0\Calculatordll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Abstract Classes\Calculator\Calculatordll\obj\Debug\net6.0\Calculatordll.AssemblyInfoInputs.cache
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Abstract Classes\Calculator\Calculatordll\obj\Debug\net6.0\Calculatordll.AssemblyInfo.cs
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Abstract Classes\Calculator\Calculatordll\obj\Debug\net6.0\Calculatordll.csproj.CoreCompileInputs.cache
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Abstract Classes\Calculator\Calculatordll\obj\Debug\net6.0\Calculatordll.dll
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Abstract Classes\Calculator\Calculatordll\obj\Debug\net6.0\ref\Calculatordll.dll
+C:\Users\mikay\OneDrive\Рабочий стол\P126\Abstract Classes\Calculator\Calculatordll\obj\Debug\net6.0\Calculatordll.pdb

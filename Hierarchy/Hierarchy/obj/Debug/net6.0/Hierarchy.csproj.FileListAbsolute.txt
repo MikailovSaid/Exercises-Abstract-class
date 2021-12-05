@@ -1,0 +1,15 @@
+C:\Users\mikay\OneDrive\Рабочий стол\Homework\Hierarchy\Hierarchy\bin\Debug\net6.0\Hierarchy.exe
+C:\Users\mikay\OneDrive\Рабочий стол\Homework\Hierarchy\Hierarchy\bin\Debug\net6.0\Hierarchy.deps.json
+C:\Users\mikay\OneDrive\Рабочий стол\Homework\Hierarchy\Hierarchy\bin\Debug\net6.0\Hierarchy.runtimeconfig.json
+C:\Users\mikay\OneDrive\Рабочий стол\Homework\Hierarchy\Hierarchy\bin\Debug\net6.0\Hierarchy.dll
+C:\Users\mikay\OneDrive\Рабочий стол\Homework\Hierarchy\Hierarchy\bin\Debug\net6.0\ref\Hierarchy.dll
+C:\Users\mikay\OneDrive\Рабочий стол\Homework\Hierarchy\Hierarchy\bin\Debug\net6.0\Hierarchy.pdb
+C:\Users\mikay\OneDrive\Рабочий стол\Homework\Hierarchy\Hierarchy\obj\Debug\net6.0\Hierarchy.csproj.AssemblyReference.cache
+C:\Users\mikay\OneDrive\Рабочий стол\Homework\Hierarchy\Hierarchy\obj\Debug\net6.0\Hierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikay\OneDrive\Рабочий стол\Homework\Hierarchy\Hierarchy\obj\Debug\net6.0\Hierarchy.AssemblyInfoInputs.cache
+C:\Users\mikay\OneDrive\Рабочий стол\Homework\Hierarchy\Hierarchy\obj\Debug\net6.0\Hierarchy.AssemblyInfo.cs
+C:\Users\mikay\OneDrive\Рабочий стол\Homework\Hierarchy\Hierarchy\obj\Debug\net6.0\Hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\mikay\OneDrive\Рабочий стол\Homework\Hierarchy\Hierarchy\obj\Debug\net6.0\Hierarchy.dll
+C:\Users\mikay\OneDrive\Рабочий стол\Homework\Hierarchy\Hierarchy\obj\Debug\net6.0\ref\Hierarchy.dll
+C:\Users\mikay\OneDrive\Рабочий стол\Homework\Hierarchy\Hierarchy\obj\Debug\net6.0\Hierarchy.pdb
+C:\Users\mikay\OneDrive\Рабочий стол\Homework\Hierarchy\Hierarchy\obj\Debug\net6.0\Hierarchy.genruntimeconfig.cache

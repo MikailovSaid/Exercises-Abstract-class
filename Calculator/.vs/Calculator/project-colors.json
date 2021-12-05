@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4f87e08d-10ed-469b-af89-17d47371ad77": {
+      "ProjectGuid": "4f87e08d-10ed-469b-af89-17d47371ad77",
+      "DisplayName": "Calculator",
+      "ColorIndex": 0
+    },
+    "9c568092-b196-4b4d-a0c3-732eacecde40": {
+      "ProjectGuid": "9c568092-b196-4b4d-a0c3-732eacecde40",
+      "DisplayName": "Calculatordll",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
